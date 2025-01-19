@@ -1,0 +1,4 @@
+alias rc /homes/wl/Rebecca/rc
+alias re /homes/wl/Rebecca/re
+cp /homes/wl/Rebecca/prelude.rby .
+cp /homes/wl/Rebecca/egs.rby .
