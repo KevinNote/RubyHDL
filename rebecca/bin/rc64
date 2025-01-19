@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/bin/sml @SMLload=/homes/wl/public_html/cgi-bin/rc.x86-linux $*
+/usr/bin/sml @SMLload=./rebecca/bin/rc.x86-linux $*

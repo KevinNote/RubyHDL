@@ -1,4 +1,4 @@
 #!/bin/sh
-/usr/share/smlnj/bin/sml @SMLload=/homes/wl/public_html/teachlocal/ccomp/rebecca/bin/rclinux-sml $*
+sml @SMLload=./rebecca/bin/rclinux-sml $*
 
 
