@@ -1,0 +1,5 @@
+alias rc ./rebecca/bin/rclinux64
+alias re ./rebecca/bin/re15
+
+cp ./rebecca/prelude.rby .
+cp ./rebecca/egs.rby .
